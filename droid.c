@@ -25,7 +25,7 @@ int endgame(int,int);
 int clean(void);
 int main(void)
 {	
-	printf("\e[8;24;80t");
+	printf("\e[8;24;80t");// resizes terminal using xterm inbuilt escape sequence code
 	boundary();
 	intro(10,5);
 	clean();
