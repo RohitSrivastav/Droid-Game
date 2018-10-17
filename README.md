@@ -7,7 +7,7 @@
 
 Installation Instruction
 -------------------------
-- Downloads the codes.
+- Download the codes.
 - compile the codes with gcc
 - open terminal and execute the game binary.
 
